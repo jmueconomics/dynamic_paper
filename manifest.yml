@@ -1,0 +1,4 @@
+---
+applications:
+ - name: sample_streamlit_app
+   random-route: true
